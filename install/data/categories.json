@@ -1,7 +1,7 @@
 [
     {
         "name": "Announcements",
-        "description": "Announcements regarding our community",
+        "description": "Announcements regarding our community and new covers",
         "bgColor": "#fda34b",
         "color": "#fff",
         "icon" : "fa-bullhorn",
@@ -25,7 +25,7 @@
     },
     {
         "name": "Comments & Feedback",
-        "description": "Got a question? Ask away!",
+        "description": "Got a question on amps? Ask away!",
         "bgColor": "#e95c5a",
         "color": "#fff",
         "icon" : "fa-question",
